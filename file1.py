@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
-import time
+import module
 
-print("Current time is {}".format(time.asctime()))
+
+module.print_time()
