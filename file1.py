@@ -2,5 +2,5 @@
 
 import module
 
-
+print("printing time")
 module.print_time()
